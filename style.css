@@ -1,0 +1,113 @@
+.sec1{
+	height: 600px;
+	background-image: url(01.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+}
+.one{
+	height: 600px;
+	background-color: rgba(0, 0, 0, 0.8);
+	text-align: center;
+}
+.inner h1{
+	color: white;
+	font-size: 55px;
+	margin-top: 150px;
+	text-align: center;
+	letter-spacing: 3px;
+	word-spacing: 4px;
+}
+.inner span{
+	color: red;
+	
+}
+.inner p{
+	color: white;
+	font-size: 20px;
+	margin-top: 20px;
+	text-align: center;
+	letter-spacing: 2px;
+}
+button{	
+}
+.btn1{
+	border-radius: 10px;
+	height: 40px;
+	width: 100px;
+}
+.btn1:hover{
+	background-color: transparent;
+	border
+}
+.btn2{
+	height: 40px;
+	width: 100px;
+	border:1px solid red;
+	color: tomato;
+	border-radius: 10px;
+}
+.btn2:hover{
+	color: white;
+}
+.sec2{
+	text-align: center;
+	margin-top: 23px;
+}
+.two h2{
+	font-size: 37px;
+}
+.two p{
+
+	font-size: 20px;
+	color: blue;
+}
+
+.three{
+	border:1px solid gray;
+	border-radius: 15px;
+	text-align: center;
+	margin-top: 30px;
+}
+.three img{
+	height: 120px;
+	width: 300px;
+}
+.three h3{
+	margin-top: 20px;
+
+}
+.three p{
+	margin-top: 15px;
+}
+.four{
+	border: 1px solid black;
+	width: 380px;
+	height: 440px;
+	border-radius: 5px;
+	box-shadow: 0 40px 10px 10px  inset blue;
+	border-bottom-left-radius: 30px; 
+	border-bottom-right-radius: 30px; 
+}
+.four img{
+	height:200px;
+	width: 365px;
+}
+.four h3{
+	margin-top: 20px;
+}
+.four p{
+	margin-top: 20px;
+}
+.four button{
+	background-color: tomato;
+	margin-top: 15px;
+	border-radius: 10px;
+	border:none;
+	height: 40px;
+	width: 100px;
+}
+.four button:hover{
+	background-color: transparent;
+	border:2px solid black;
+}
